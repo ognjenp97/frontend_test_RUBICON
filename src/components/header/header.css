@@ -1,0 +1,21 @@
+.movieBtn,
+.tvShowsBtn {
+  width: 85px;
+  height: 30px;
+  background-color: white;
+  font: 30px;
+  color: black;
+}
+
+.header-container {
+  display: flex;
+  justify-content: flex-start;
+  padding-top: 30px;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.active {
+  background-color: rgb(224, 115, 115);
+  font-weight: bold;
+}

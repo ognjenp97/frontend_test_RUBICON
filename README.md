@@ -1,6 +1,22 @@
-# Getting Started with Create React App
+# Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my project, a web application developed as part of the frontend engineering test for a job application. This project showcases my skills as a frontend developer and serves as a demonstration of my ability to build interactive and responsive user interfaces using modern web technologies.
+
+## Installation
+
+Before running the application, you need to install the required node modules. Run the following command in your terminal:
+
+### `npm install`
+
+This will install all the necessary node modules from the package.json file.
+
+### Running the Application
+
+Once the node modules are installed, you can run the application using the following command:
+
+### `npm start`
+
+This will start the application in development mode. Open http://localhost:3000 in your web browser to see the application.
 
 ## Available Scripts
 
